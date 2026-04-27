@@ -1,4 +1,12 @@
 {
-  "home": [],
-  "result": []
+  "home": [
+    "img": "banner.png",
+    "url": "https://tanabekeijiban.flutterflow.app/home",
+    "alt": "たなべ掲示板へのバナー"
+  ],
+  "result": [
+    "img": "banner.png",
+    "url": "https://tanabekeijiban.flutterflow.app/home",
+    "alt": "たなべ掲示板へのバナー"
+  ]
 }
